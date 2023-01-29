@@ -6,6 +6,9 @@ module.exports = {
       fontFamily: {
         lato: ['Lato', 'sans-serif'],
       },
+      backgroundImage: {
+        'hero': "url('src/lib/assets/images/banner.jpg')",
+      },
     },
     container: {
       center: true,

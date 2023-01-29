@@ -1,7 +1,10 @@
 <script lang="ts">
 	import '../styles/app_output.css';
+	import headerLogo from '$lib/assets/images/ffwo-logo.png';
+	import footerLogo from '$lib/assets/images/ffwo-logo-single.png';
 
 	import Header from '$lib/components/Header/Header.svelte';
+	import Footer from '$lib/components/Footer/Footer.svelte';
 </script>
 
 <svelte:head>
@@ -48,6 +51,7 @@
 </svelte:head>
 
 <div class="w-full font-lato">
-	<Header />
+	<Header {headerLogo} />
 	<slot />
+	<Footer {footerLogo} />
 </div>
