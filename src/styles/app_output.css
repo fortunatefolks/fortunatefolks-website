@@ -821,8 +821,8 @@ select {
   --tw-bg-opacity: 1;
   background-color: rgb(255 255 255 / var(--tw-bg-opacity));
 }
-.bg-hero {
-  background-image: url('src/lib/assets/images/banner.jpg');
+.bg-\[url\(\'\$lib\/assets\/images\/banner\.jpg\'\)\] {
+  background-image: url('$lib/assets/images/banner.jpg');
 }
 .bg-cover {
   background-size: cover;

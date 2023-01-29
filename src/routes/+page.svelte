@@ -1,7 +1,9 @@
 <script lang="ts">
 </script>
 
-<div class="bg-hero bg-no-repeat bg-cover py-56 bg-opacity-1 h-[530px]">
+<div
+	class="bg-[url('$lib/assets/images/banner.jpg')] bg-no-repeat bg-cover py-56 bg-opacity-1 h-[530px]"
+>
 	<div class="max-w-2xl mx-auto px-2 flex flex-wrap align-middle">
 		<div class="max-w-md mx-auto">
 			<h2 class="text-center font-bold text-3xl align-middle text-[#2675ac]">
