@@ -1,4 +1,5 @@
 <script lang="ts">
+	import clapImage from '$lib/assets/images/clap.png';
 </script>
 
 <div
@@ -20,11 +21,10 @@
 		>
 			<div class="flex justify-center">
 				<div class="mx-auto flex items-center">
-					<div><span class="text-4xl mr-2">🙏</span></div>
+					<img src={clapImage} class="w-12 mr-2" alt="clap" />
 					<div>
-						<span class="uppercase text-sm font-bold">Join With Us</span><span
-							class="text-base sm--text-2xl block">Become a Vonluteer</span
-						>
+						<span class="uppercase text-sm font-bold">Join With Us</span>
+						<span class="text-base sm--text-2xl block">Become a Vonluteer</span>
 					</div>
 				</div>
 			</div>
