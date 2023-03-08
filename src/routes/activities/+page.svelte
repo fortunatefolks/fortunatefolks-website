@@ -7,8 +7,9 @@
 	import image7 from '$lib/assets/gallery/image7.jpeg';
 	import image8 from '$lib/assets/gallery/image8.jpeg';
 	import image9 from '$lib/assets/gallery/image9.jpeg';
+	import image10 from '$lib/assets/gallery/image10.jpeg';
 
-	let images_list = [image2, image3, image4, image5, image6, image7, image8, image9];
+	let images_list = [image2, image3, image4, image5, image6, image7, image8, image9, image10];
 </script>
 
 <section class="overflow-hidden text-neutral-700 mt-6">
@@ -16,7 +17,7 @@
 	<div class="container mx-auto px-5 py-2 lg:px-32 lg:pt-12">
 		<div class="-m-1 flex flex-wrap md:-m-2">
 			{#each images_list as image}
-				<div class="flex w-1/3 flex-wrap">
+				<div class="flex w-1/2 flex-wrap">
 					<div class="w-full p-1 md:p-2">
 						<img
 							alt="gallery"
