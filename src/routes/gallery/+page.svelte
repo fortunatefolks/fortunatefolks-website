@@ -21,7 +21,7 @@
 			{/each}
 		</div>
 		<blockquote
-			class="text-xl italic font-semibold text-gray-900 dark:text-white text-center justify-center align-middle"
+			class="text-xl italic font-semibold text-gray-900 dark:text-white text-center justify-center align-middle w-[500px] px-40"
 		>
 			<svg
 				aria-hidden="true"
