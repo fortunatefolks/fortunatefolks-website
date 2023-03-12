@@ -7,7 +7,7 @@
 >
 	<div class="max-w-2xl mx-auto px-2 flex flex-wrap align-middle">
 		<div class="max-w-md mx-auto">
-			<h2 class="text-center font-bold text-3xl align-middle text-[#2675ac]">
+			<h2 class="text-center font-bold text-3xl align-middle text-gray-900">
 				We are a non-profit organization to provide entrepreneurship services for economic
 				development in lagged areas
 			</h2>
