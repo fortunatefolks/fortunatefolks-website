@@ -747,6 +747,9 @@ select {
 .h-\[530px\] {
   height: 530px;
 }
+.h-auto {
+  height: auto;
+}
 .h-full {
   height: 100%;
 }
@@ -776,6 +779,9 @@ select {
 }
 .max-w-md {
   max-width: 28rem;
+}
+.max-w-full {
+  max-width: 100%;
 }
 .max-w-screen-xl {
   max-width: 1280px;
