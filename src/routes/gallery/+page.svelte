@@ -21,7 +21,7 @@
 			{/each}
 		</div>
 		<blockquote
-			class="text-2xl italic font-semibold text-gray-900 dark:text-white text-center justify-center align-middle"
+			class="text-xl italic font-semibold text-gray-900 dark:text-white text-center justify-center align-middle"
 		>
 			<svg
 				aria-hidden="true"
@@ -34,7 +34,7 @@
 					fill="currentColor"
 				/></svg
 			>
-			<p class="text-2xl text-center justify-center">"From Hope to Belief"</p>
+			<p class="text-2xl text-center block text-gray-900">"From Hope to Belief"</p>
 		</blockquote>
 	</div>
 </section>
