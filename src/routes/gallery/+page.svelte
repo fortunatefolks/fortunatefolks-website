@@ -7,7 +7,7 @@
 <section class="overflow-hidden text-neutral-700 mt-6">
 	<h2 class="mt-4 mb-4 text-3xl font-bold leading-tight align-middle text-center">Gallery</h2>
 	<div class="container mx-auto px-5 py-2 lg:px-32 lg:pt-12">
-		<div class="-m-1 flex flex-wrap md:-m-2 items-center justify-center align-middle">
+		<div class="-m-1 flex flex-wrap md:-m-2 items-center justify-center align-middle mb-10">
 			{#each images_list as image}
 				<div class="flex w-full flex-wrap items-center justify-center align-middle">
 					<div class="w-full p-1 md:p-2">
