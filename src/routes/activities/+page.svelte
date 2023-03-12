@@ -18,7 +18,7 @@
 	<div class="container mx-auto px-5 py-2 lg:px-32 lg:pt-12">
 		<div class="-m-1 flex flex-wrap md:-m-2">
 			<div class="flex w-full flex-wrap">
-				<video class="w-full h-auto max-w-full p-1 md:p-2 rounded-lg" controls>
+				<video class="w-full h-auto max-w-full p-1 md:p-2 rounded-2xl" controls>
 					<source class="rounded-lg" src={video1} type="video/mp4" />
 				</video>
 			</div>
