@@ -7,9 +7,9 @@
 <header class="bg-white shadow-md">
 	<div class="container mx-auto px-2">
 		<div class="flex justify-between items-center">
-			<div class="flex flex-row">
+			<a href="/" class="flex flex-row">
 				<img src={headerLogo} width="325px" alt="logo" />
-			</div>
+			</a>
 
 			<Nav />
 
