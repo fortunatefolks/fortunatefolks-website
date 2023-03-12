@@ -35,7 +35,7 @@
 					fill="currentColor"
 				/></svg
 			>
-			<p class="text-xl text-center text-gray-900">"From Hope to Belief"</p>
+			<p class="text-2xl text-center text-gray-900">"From Hope to Belief"</p>
 		</blockquote>
 	</div>
 </section>
