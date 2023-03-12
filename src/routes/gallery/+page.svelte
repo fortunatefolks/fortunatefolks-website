@@ -22,7 +22,7 @@
 		</div>
 
 		<blockquote
-			class="text-xl italic font-semibold text-gray-900 text-center justify-center align-middle w-[600px] px-40"
+			class="relative text-xl italic font-semibold text-gray-900 text-center justify-center align-middle w-[600px] px-40"
 		>
 			<svg
 				aria-hidden="true"
@@ -35,7 +35,9 @@
 					fill="currentColor"
 				/></svg
 			>
-			<p class="text-2xl text-center text-gray-900">"From Hope to Belief"</p>
+			<p class="relative text-2xl text-center justify-center align-middle text-gray-900">
+				"From Hope to Belief"
+			</p>
 		</blockquote>
 	</div>
 </section>
