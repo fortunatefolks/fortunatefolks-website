@@ -9,7 +9,7 @@
 	<div class="container mx-auto px-5 py-2 lg:px-32 lg:pt-12">
 		<div class="-m-1 flex flex-wrap md:-m-2 items-center justify-center align-middle">
 			{#each images_list as image}
-				<div class="flex w-1/2 flex-wrap items-center justify-center align-middle">
+				<div class="flex w-full flex-wrap items-center justify-center align-middle">
 					<div class="w-full p-1 md:p-2">
 						<img
 							alt="gallery"
