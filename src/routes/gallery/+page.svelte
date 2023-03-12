@@ -22,7 +22,7 @@
 		</div>
 
 		<blockquote
-			class="relative text-xl italic font-semibold text-gray-900 text-center justify-center align-middle w-[600px] px-40"
+			class="relative text-xl italic font-semibold text-gray-900 text-center justify-center align-middle px-[18rem]"
 		>
 			<svg
 				aria-hidden="true"
